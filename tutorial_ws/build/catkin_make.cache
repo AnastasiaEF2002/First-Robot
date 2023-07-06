@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/anastasiaef/tutorial_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anastasiaef/tutorial_ws/install -G Unix Makefiles
